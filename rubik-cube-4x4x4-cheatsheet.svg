@@ -7,8 +7,8 @@
    viewBox="0 0 793.70081 1122.5197"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
-   sodipodi:docname="rubik-cube-4x4-cheatsheet.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="rubik-cube-4x4x4-cheatsheet.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,17 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#808080"
      inkscape:document-units="mm"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:zoom="1.46935"
-     inkscape:cx="899.03699"
-     inkscape:cy="433.52503"
-     inkscape:window-width="3840"
-     inkscape:window-height="2051"
+     inkscape:cx="444.07391"
+     inkscape:cy="311.70245"
+     inkscape:window-width="1858"
+     inkscape:window-height="1047"
      inkscape:window-x="0"
-     inkscape:window-y="600"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="switch3979"
+     inkscape:current-layer="layer1"
      inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
@@ -523,7 +523,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path2731"
            sodipodi:type="arc"
            sodipodi:cx="287.24408"
@@ -575,7 +575,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path2835"
            sodipodi:type="arc"
            sodipodi:cx="-438.4252"
@@ -863,7 +863,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path3198"
            sodipodi:type="arc"
            sodipodi:cx="287.24408"
@@ -916,7 +916,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path3218"
            sodipodi:type="arc"
            sodipodi:cx="-438.4252"
@@ -1165,7 +1165,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path4359"
            sodipodi:type="arc"
            sodipodi:cx="287.24408"
@@ -1268,7 +1268,7 @@
              y="241.88977" />
         </g>
         <path
-           style="opacity:0.9;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
+           style="opacity:1;fill:none;fill-opacity:0.992644;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2481-6);paint-order:fill markers stroke;stop-color:#000000"
            id="path4461"
            sodipodi:type="arc"
            sodipodi:cx="-438.4252"
