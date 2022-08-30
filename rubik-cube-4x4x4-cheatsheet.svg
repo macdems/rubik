@@ -26,14 +26,14 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="1.46935"
-     inkscape:cx="444.07391"
-     inkscape:cy="311.70245"
+     inkscape:cx="342.32824"
+     inkscape:cy="496.81832"
      inkscape:window-width="1858"
      inkscape:window-height="1047"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5283"
      inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
@@ -1613,7 +1613,7 @@
       </g>
       <g
          id="g5241"
-         transform="rotate(180,502.67715,180.94488)">
+         transform="matrix(-1,0,0,1,1005.3543,119.99999)">
         <g
            id="g5235"
            transform="translate(408.189,-151.18111)"
@@ -1663,7 +1663,7 @@
       </g>
       <g
          id="g5927"
-         transform="matrix(0,-1,-1,0,461.10234,452.59844)">
+         transform="rotate(90,215.90551,245.19683)">
         <g
            id="g5919"
            transform="translate(105.82678,-151.18111)"
@@ -1859,7 +1859,7 @@
       </g>
       <g
          id="g6924"
-         transform="matrix(1,0,0,-1,128.50389,361.88975)">
+         transform="translate(128.50389,120)">
         <g
            id="g6918"
            transform="translate(408.189,-151.18111)"
@@ -1982,7 +1982,7 @@
       </g>
       <g
          id="g6970"
-         transform="translate(-325.03946,195.59054)">
+         transform="matrix(1,0,0,-1,-325.03946,437.48033)">
         <g
            id="g6964"
            transform="translate(408.189,-151.18111)"
@@ -2105,7 +2105,7 @@
       </g>
       <g
          id="g7016"
-         transform="matrix(0,1,1,0,219.21252,104.88189)">
+         transform="rotate(-90,373.70075,154.48823)">
         <g
            id="g7010"
            transform="translate(105.82678,-151.18111)"
@@ -2155,7 +2155,7 @@
       </g>
       <g
          id="g7038"
-         transform="translate(-98.267831,195.59054)">
+         transform="matrix(1,0,0,-1,-98.267831,437.48033)">
         <g
            id="g7032"
            transform="translate(408.189,-151.18111)"
@@ -2205,7 +2205,7 @@
       </g>
       <g
          id="g7060"
-         transform="matrix(0,1,1,0,370.39361,104.88187)">
+         transform="rotate(-90,449.2913,78.897693)">
         <g
            id="g7054"
            transform="translate(105.82678,-151.18111)"
@@ -2255,7 +2255,7 @@
       </g>
       <g
          id="g7082"
-         transform="matrix(-1,0,0,1,1080.9449,195.59054)">
+         transform="rotate(180,540.47245,218.74016)">
         <g
            id="g7076"
            transform="translate(408.189,-151.18111)"
@@ -2305,7 +2305,7 @@
       </g>
       <g
          id="g7104"
-         transform="matrix(0,-1,-1,0,763.46453,528.18898)">
+         transform="rotate(90,329.29132,434.17321)">
         <g
            id="g7098"
            transform="translate(105.82678,-151.18111)"
